@@ -1,0 +1,3 @@
+db/.terraform*
+**/*.tfstate.backup
+**/env_vars.sh
